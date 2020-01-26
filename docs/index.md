@@ -1,6 +1,6 @@
 ## Smokio
 
-![Smokio](https://github.com/andresgarbio/Smokio-user/blob/master/docs/Webp.net-resizeimage%20(2).png)
+![Smokio](https://github.com/andresgarbio/Smokio-user/blob/master/docs/Webp.net-resizeimage%20(2).png){:class="img-responsive"}
 
 What makes SMOKIO unique?
 
