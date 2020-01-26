@@ -1,6 +1,6 @@
 ## Smokio
 
-{% include image.html file="https://github.com/andresgarbio/Smokio-user/blob/master/docs/Webp.net-resizeimage%20(2).png" url="http://jekyllrb.com" alt="Jekyll" caption="This is a sample caption" %}
+{% include image.html file="Webp.net-resizeimage%20(2).png" alt="Jekyll" caption="This is a sample caption" %}
 
 What makes SMOKIO unique?
 
