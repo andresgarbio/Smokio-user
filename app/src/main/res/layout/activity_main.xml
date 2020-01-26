@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    android:orientation="vertical">
+
+  <TextView
+      android:id="@+id/name"
+      style="@style/StatusText"
+      android:textColor="#00FFFFFF" />
+
+  <TextView
+      android:id="@+id/opponent_name"
+      style="@style/StatusText"
+      android:textColor="#00FFFFFF" />
+
+  <TextView
+      android:id="@+id/status"
+      style="@style/StatusText"
+      android:textColor="#00FFFFFF" />
+
+  <TextView
+      android:id="@+id/score"
+      android:layout_width="match_parent"
+      android:layout_height="0dp"
+      android:layout_weight="1"
+      android:allowUndo="false"
+      android:gravity="center"
+      android:textColor="#00FFFFFF"
+      android:textSize="80sp" />
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/rock"
+        style="@style/MoveButton"
+        android:drawableTop="@drawable/rock"
+        android:text="@string/choice_rock"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/paper"
+        android:drawableTop="@drawable/paper"
+        android:text="@string/choice_paper"
+        style="@style/MoveButton"/>
+
+    <Button
+        android:id="@+id/scissors"
+        style="@style/MoveButton"
+        android:drawableTop="@drawable/scissors"
+        android:drawableTint="#00FFFFFF"
+        android:text="@string/choice_scissors"
+        android:textColor="#00FFFFFF" />
+  </LinearLayout>
+
+  <Button
+      android:id="@+id/find_opponent"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:onClick="findOpponent"
+      android:text="@string/action_find_opponents"
+      style="@style/Widget.AppCompat.Button.Colored"/>
+
+  <Button
+      android:id="@+id/disconnect"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:onClick="disconnect"
+      android:text="@string/action_disconnect"
+      style="@style/Widget.AppCompat.Button.Colored"/>
+</LinearLayout>
