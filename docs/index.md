@@ -1,12 +1,13 @@
 ## Smokio
 
-You can use the [editor on GitHub](https://github.com/andresgarbio/Smokio-user/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+What makes SMOKIO unique?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-SMOKIO is a smart smoke detector and fire alarm that exemplifies what can be done to improve the current outdated system. This device implements a novel communication method that not only alerts the homeowner, but also the people in the vicinity of the fire. Using three different connectivity protocols that connect via Bluetooth, GSM and, WiFi; SMOKIO warns any bystanders about the fire.  
 
-### Markdown
+-SMOKIO is unique in terms of the sensors it contains. This smart smoke detector uses low-cost paper-based sensors. These sensors are capable of detecting fire in a cost-effective way without compromising reliability. The sensors used in SMOKIO offer an affordable alternative to other smart smoke detectors that can cost more than 300 USD.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-Fire detectors in the market are either affordable or smart, but SMOKIO detector is both.
+
 
 ```markdown
 Syntax highlighted code block
