@@ -1,8 +1,12 @@
-## Smokio
+# Smokio
 
 ![useful image]( https://andresgarbio.github.io/Smokio-user/assets/smokio_logo.png)
 
-What makes SMOKIO unique?
+### Fire detectors in the market are either smart or affordable.
+
+### With SMOKIO you can have both.
+
+**What makes SMOKIO unique?**
 
 - SMOKIO is a smart smoke detector and fire alarm that exemplifies what can be done to improve the current outdated system. This device implements a novel communication method that not only alerts the homeowner, but also the people in the vicinity of the fire. Using three different connectivity protocols that connect via Bluetooth, GSM and, WiFi; SMOKIO warns any bystanders about the fire.  
 
@@ -11,29 +15,9 @@ What makes SMOKIO unique?
 - Fire detectors in the market are either affordable or smart, but SMOKIO detector is both.
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Jekyll Themes
 
-This page is using a Jekyll team
+This page is using a Jekyll theme
 
 ### Support or Contact
 
