@@ -1,6 +1,6 @@
 ## Smokio
 
-![useful image]({{ https://andresgarbio.github.io/Smokio-user/ }}/assets/smokio_logo.png)
+![useful image]( https://andresgarbio.github.io/Smokio-user/assets/smokio_logo.png)
 
 What makes SMOKIO unique?
 
