@@ -1,5 +1,7 @@
 ## Smokio
 
+![useful image]({{ https://andresgarbio.github.io/Smokio-user/ }}/assets/smokio_logo.png)
+
 What makes SMOKIO unique?
 
 - SMOKIO is a smart smoke detector and fire alarm that exemplifies what can be done to improve the current outdated system. This device implements a novel communication method that not only alerts the homeowner, but also the people in the vicinity of the fire. Using three different connectivity protocols that connect via Bluetooth, GSM and, WiFi; SMOKIO warns any bystanders about the fire.  
