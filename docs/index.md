@@ -7,7 +7,7 @@
 
 ### With SMOKIO you can have both.
 
-[Download]( https://andresgarbio.github.io/Smokio-user/assets/app-release.aab)
+[Download]( https://andresgarbio.github.io/Smokio-user/assets/app-release.apk)
 
 **What makes SMOKIO unique?**
 
