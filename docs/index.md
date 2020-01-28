@@ -2,9 +2,12 @@
 
 ![useful image]( https://andresgarbio.github.io/Smokio-user/assets/smokio_logo.png)
 
+
 ### Fire detectors in the market are either smart or affordable.
 
 ### With SMOKIO you can have both.
+
+[Download]( https://andresgarbio.github.io/Smokio-user/assets/app-release.aab)
 
 **What makes SMOKIO unique?**
 
