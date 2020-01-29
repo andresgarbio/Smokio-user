@@ -19,6 +19,9 @@
 
 - Fire detectors in the market are either affordable or smart, but SMOKIO detector is both.
 
+**More info on Fire Hazards**
+
+You can get more info on the market need for affordable fire alarm smoke detectors on [this report](https://web.wpi.edu/Pubs/E-project/Available/E-project-051309-224722/unrestricted/FPAA_Final_Report_D09.pdf) made by Worcherster Polytechnic Institute Researchers.
 
 ### Jekyll Themes
 
