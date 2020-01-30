@@ -9,6 +9,8 @@
 
 ### You can download Smokio from Google Playstore or directly:
 
+### [Watch our video](https://youtu.be/iIeC4nw9smE)
+
 ### [Download]( https://andresgarbio.github.io/Smokio-user/assets/app-release.apk)
 
 **What makes SMOKIO unique?**
